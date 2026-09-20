@@ -43,6 +43,16 @@ Aşağıda icmamız üçün aktiv şəkildə fəaliyyət göstərən və hazırl
   </thead>
   <tbody>
     <tr>
+      <td><strong>🌐 TDV Hub</strong></td>
+      <td>
+        <a href="https://tdv-community-labs.github.io/tdv-hub/" target="_blank">
+          <img src="https://img.shields.io/badge/M%C9%99rk%C9%99z-Canl%C4%B1-3B82F6?style=flat-square" alt="Live Hub" />
+        </a>
+      </td>
+      <td>Təşkilatın mərkəzi portalı: zəng cədvəli, KSQ/BSQ kalkulyatoru, düstur bankı və turnir paneli.</td>
+      <td><a href="https://tdv-community-labs.github.io/tdv-hub/" target="_blank"><strong>tdv-community-labs.github.io/tdv-hub</strong></a></td>
+    </tr>
+    <tr>
       <td><strong>🎓 TDV E-School</strong></td>
       <td>
         <a href="https://tdv-e-school.vercel.app/" target="_blank">
