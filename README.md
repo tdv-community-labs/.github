@@ -13,5 +13,5 @@ Bu xÃ¼susi repozitoriya **TDV Community Labs** tÉ™ÅŸkilatÄ±nÄ±n profi
 1. **ğŸŒ TDV Hub (MÉ™rkÉ™zi Portal):** [tdv-community-labs.github.io/tdv-hub](https://tdv-community-labs.github.io/tdv-hub/)
 2. **ğŸ“ TDV E-School (TÉ™dris PortalÄ±):** [tdv-e-school.vercel.app](https://tdv-e-school.vercel.app/)
 3. **âš½ TDV Sports (Minifutbol Turniri):** [school-minifootball-tournament-2.vercel.app](https://school-minifootball-tournament-2.vercel.app/)
-4. **ğŸ•µï¸â€â™‚ï¸ TDV Mafia (Sosial Deduksiya PortalÄ±):** [tdv-mafia.vercel.app](https://tdv-mafia.vercel.app/)
-5. **ğŸ® TDV Games (Åagird Oyun ZonasÄ±):** TezliklÉ™
+4. **ğŸ® TDV Games (Oyun & Deduksiya PortalÄ±):** [tdv-community-labs.github.io/tdv-hub/games.html](https://tdv-community-labs.github.io/tdv-hub/games.html)
+5. **ğŸ•µï¸â€â™‚ï¸ TDV Mafia (Sosial Deduksiya FlaqmanÄ±):** [tdv-mafia.vercel.app](https://tdv-mafia.vercel.app/)
