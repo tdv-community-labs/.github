@@ -29,7 +29,9 @@
 - **ğŸ›ï¸ ÅlÃ¼z & Kommunal AltÃ§oxluÄŸu:** MÉ™rkÉ™zi naviqasiya ÅŸlÃ¼zÃ¼, bal hesablayÄ±cÄ±, interaktiv zÉ™ng vÉ™ sinif cÉ™dvÉ™li, fÉ™nn kabinetlÉ™ri.
 - **ğŸ“ Akademik & EdTech AltÃ§oxluÄŸu:** 100+ elektron dÉ™rslik, BSQ/KSQ sÄ±naq arxivi vÉ™ 1v1 PvP bilik yarÄ±ÅŸlarÄ±.
 - **âš½ Ä°dman & Turnir AltÃ§oxluÄŸu:** MÉ™ktÉ™b minifutbol liqasÄ±, canlÄ± xal cÉ™dvÉ™li vÉ™ oyunÃ§u statistikasÄ±.
-- **ğŸ•µï¸â€â™‚ï¸ Deduksiya, MÉ™ntiq & Oyun AltÃ§oxluÄŸu:** 14 formatlÄ± canlÄ± sosial deduksiya mÃ¼hÉ™rriki vÉ™ ÅŸagird oyun laboratoriyasÄ±.
+- **ğŸ® Oyunlar & Deduksiya AltÃ§oxluÄŸu (TDV Games & Mafia):** 
+  - **TDV Games:** Åagird oyun portalÄ± vÉ™ inkubatoru ([games.html](https://tdv-community-labs.github.io/tdv-hub/games.html)).
+  - **TDV Mafia:** 14 formatlÄ± flaqman sosial deduksiya vÉ™ mÉ™ntiq mÃ¼hÉ™rriki ([tdv-mafia.vercel.app](https://tdv-mafia.vercel.app/)).
 - **ğŸ”’ Ä°darÉ™etmÉ™ & SiyasÉ™t AltÃ§oxluÄŸu:** Ä°kili inzibati nÉ™zarÉ™t (Dual-Admin), qapalÄ± mÉ™nbÉ™ kodlarÄ± vÉ™ tÉ™hlÃ¼kÉ™sizlik qaydalarÄ±.
 
 ---
@@ -83,6 +85,17 @@ AÅŸaÄŸÄ±da tÉ™ÅŸkilatÄ±mÄ±zÄ±n tÉ™rkibindÉ™ fÉ™aliyyÉ
       <td><a href="https://school-minifootball-tournament-2.vercel.app/" target="_blank"><strong>minifootball-tournament</strong></a></td>
     </tr>
     <tr>
+      <td><strong>ğŸ® TDV Games</strong></td>
+      <td>
+        <a href="https://tdv-community-labs.github.io/tdv-hub/games.html" target="_blank">
+          <img src="https://img.shields.io/badge/Oyunlar-Aktiv-8B5CF6?style=flat-square&logo=gamepad&logoColor=white" alt="Games Live" />
+        </a>
+      </td>
+      <td><code>Oyun & ÆylÉ™ncÉ™</code></td>
+      <td>MÉ™ktÉ™b oyun vÉ™ deduksiya portalÄ±: TDV Mafia flaqman platformasÄ±, ÅŸagird intellektual oyunlarÄ± vÉ™ layihÉ™ laboratoriyasÄ±.</td>
+      <td><a href="https://tdv-community-labs.github.io/tdv-hub/games.html" target="_blank"><strong>tdv-hub/games</strong></a></td>
+    </tr>
+    <tr>
       <td><strong>ğŸ•µï¸â€â™‚ï¸ TDV Mafia</strong></td>
       <td>
         <a href="https://tdv-mafia.vercel.app/" target="_blank">
@@ -90,17 +103,8 @@ AÅŸaÄŸÄ±da tÉ™ÅŸkilatÄ±mÄ±zÄ±n tÉ™rkibindÉ™ fÉ™aliyyÉ
         </a>
       </td>
       <td><code>Deduksiya & MÉ™ntiq</code></td>
-      <td>Enterprise Mafia mÃ¼hÉ™rriki: Dante's Inferno (9 DairÉ™ ÆzablarÄ±), Operation Valkyrie, Stanford Prison daxil 14 oyun rejimi, real-vaxt masalar vÉ™ ikili admin nÉ™zarÉ™ti.</td>
+      <td>TDV Games-in flaqman sosial deduksiya mÃ¼hÉ™rriki: Dante's Inferno (9 DairÉ™ ÆzablarÄ±), Operation Valkyrie, Stanford Prison daxil 14 oyun formatÄ± vÉ™ real-vaxt masalar.</td>
       <td><a href="https://tdv-mafia.vercel.app/" target="_blank"><strong>tdv-mafia.vercel.app</strong></a></td>
-    </tr>
-    <tr>
-      <td><strong>ğŸ® TDV Games</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Rezerv-Haz%C4%B1rlan%C4%B1r-0B0F19?style=flat-square&logo=gamepad&logoColor=white" alt="In Development" />
-      </td>
-      <td><code>Ä°nkubator & LayihÉ™</code></td>
-      <td>ÅagirdlÉ™rin hazÄ±rlayacaÄŸÄ± tÉ™hsil yÃ¶nÃ¼mlÃ¼ mini-oyunlar, mÉ™ntiq viktorinalarÄ± vÉ™ tÉ™lÉ™bÉ™ kodlaÅŸdÄ±rma zonasÄ±.</td>
-      <td><em>TezliklÉ™</em></td>
     </tr>
   </tbody>
 </table>
