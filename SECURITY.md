@@ -1,18 +1,18 @@
-# ğŸ›¡ï¸ TDV Community Labs â€” TÉ™hlÃ¼kÉ™sizlik SiyasÉ™ti (Security Policy)
+# 🛡️ TDV Community Labs — Təhlükəsizlik Siyasəti (Security Policy)
 
-## ğŸ“¦ DÉ™stÉ™klÉ™nÉ™n Versiyalar
-YalnÄ±z `tdv-community-labs` tÉ™ÅŸkilatÄ±nÄ±n rÉ™smi repozitoriyalarÄ±ndakÄ± É™n son aktiv `main` budaqlarÄ± dÉ™stÉ™klÉ™nir.
+## 📋 Dəstəklənən Versiyalar
+Yalnız `tdv-community-labs` təşkilatının rəsmi repozitoriyalarındakı ən son aktiv `main` budaqları dəstəklənir.
 
-| LayihÉ™ | DÉ™stÉ™klÉ™nÉ™n Versiya | TÉ™hlÃ¼kÉ™sizlik Statusu |
+| Layihə | Dəstəklənən Versiya | Təhlükəsizlik Statusu |
 | --- | --- | --- |
-| ğŸŒ TDV Hub | Latest (main) | Aktiv DÉ™stÉ™klÉ™nir |
-| ğŸ“ TDV E-School | Latest (main) | Aktiv DÉ™stÉ™klÉ™nir |
-| âš½ TDV Sports | Latest (main) | Aktiv DÉ™stÉ™klÉ™nir |
-| ğŸ•µï¸â€â™‚ï¸ TDV Mafia | Latest (main) | Aktiv DÉ™stÉ™klÉ™nir |
+| 🌐 TDV Hub | Latest (main) | Aktiv Dəstəklənir |
+| 🎓 TDV E-School | Latest (main) | Aktiv Dəstəklənir |
+| ⚽ TDV Sports | Latest (main) | Aktiv Dəstəklənir |
+| 🕵️‍♂️ TDV Mafia | Latest (main) | Aktiv Dəstəklənir |
 
-## ğŸš¨ BoÅŸluqlarÄ±n BildirilmÉ™si (Reporting a Vulnerability)
-SistemdÉ™ hÉ™r hansÄ± tÉ™hlÃ¼kÉ™sizlik vÉ™ ya mÉ™xfilik boÅŸluÄŸu aÅŸkar etdikdÉ™, xahiÅŸ edirik bunu aÃ§Ä±q GitHub Issues bÃ¶lmÉ™sindÉ™ **yazmayÄ±n**.
+## 🚨 Boşluqların Bildirilməsi (Reporting a Vulnerability)
+Sistemdə hər hansı təhlükəsizlik və ya məxfilik boşluğu aşkar etdikdə, xahiş edirik bunu açıq GitHub Issues bölməsində **yazmayın**.
 
-BirbaÅŸa ÆlaqÉ™:
-- ğŸ“§ **E-poÃ§t:** orxannamazovld@gmail.com
-- â±ï¸ **Cavab mÃ¼ddÉ™ti:** 24-48 saat É™rzindÉ™ ilkin cavab vÉ™ araÅŸdÄ±rma aparÄ±lacaqdÄ±r.
+Birbaşa Əlaqə:
+- 📧 **E-poçt:** orxannamazovld@gmail.com
+- ⏱️ **Cavab müddəti:** 24-48 saat ərzində ilkin cavab və araşdırma aparılacaqdır.
