@@ -24,28 +24,27 @@
 
 ## 📖 Haqqımızda və Ekosistem Strukturu
 
-**TDV Community Labs** — məktəb icmasının tədris, idman, strateji məntiq və rəqəmsal innovasiya ehtiyaclarını vahid çətir altında birləşdirən mütəşəkkil ekosistemdir. Platforma dəqiq riyazi çoxluqlar və altçoxluqlar iyerarxiyası əsasında təşkil olunmuşdur:
+**TDV Community Labs** — məktəb icmasının tədris, idman, strateji məntiq və rəqəmsal innovasiya ehtiyaclarını vahid çətir altında birləşdirən 6 rəsmi layihədən ibarət mütəşəkkil ekosistemdir:
 
-- **🔀 Şlüz & Kommunal Altçoxluğu:** Mərkəzi naviqasiya şlüzü, bal hesablayıcı, interaktiv zəng və sinif cədvəli, fənn kabinetləri.
-- **📚 Akademik & EdTech Altçoxluğu:** 100+ elektron dərslik, BSQ/KSQ sınaq arxivi və 1v1 PvP bilik yarışları.
-- **⚽ İdman & Turnir Altçoxluğu:** Məktəb minifutbol liqası, canlı xal cədvəli və oyunçu statistikası.
-- **🎲 Oyunlar & Deduksiya Altçoxluğu (TDV Games & Mafia):** 
-  - **TDV Games:** Şagird oyun portalı və inkubatoru ([games.html](https://tdv-community-labs.github.io/tdv-hub/games.html)).
-  - **TDV Mafia:** 14 formatlı flaqman sosial deduksiya və məntiq mühərriki ([tdv-mafia.vercel.app](https://tdv-mafia.vercel.app/)).
-- **🛡️ İdarəetmə & Siyasət Altçoxluğu:** İkili inzibati nəzarət (Dual-Admin), qapalı mənbə kodları və təhlükəsizlik qaydaları.
+- **🌐 Şlüz & Kommunal Portalı (TDV Hub):** Mərkəzi naviqasiya şlüzü, bal hesablayıcı, interaktiv zəng və sinif cədvəli, fənn kabinetləri.
+- **🎓 Akademik & EdTech Portalı (TDV E-School):** Elektron dərsliklər, BSQ/KSQ sınaq arxivi, KaTeX formulları və 1v1 PvP intellektual bilik yarışları.
+- **🕹️ Oyunlar & Əyləncə Portalı (TDV Games):** Mini retro oyunlar, şagird oyun laboratoriyası və arkada mühərrikləri.
+- **⚽ İdman & Turnir Portalı (TDV Football):** Məktəb daxili minifutbol liqası, canlı xal cədvəli, 2D/3D taktiki analitika və bombardirlər.
+- **🕵️‍♂️ Sosial Deduksiya Portalı (TDV Mafia):** 14 müxtəlif formatlı strateji sosial deduksiya və psixoloji məntiq platforması.
+- **♟️ Stolüstü Oyunlar Portalı (TDV Boardgames):** Şahmat və klassik stolüstü oyun mühərrikləri, akustik səs effektləri və taktiki analiz.
 
 ---
 
 ## 🚀 Rəqəmsal Layihələr və Canlı Keçidlər
 
-Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən bütün rəsmi layihələrin canlı keçidləri və xüsusiyyətləri təqdim olunur:
+Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən 6 rəsmi layihənin canlı keçidləri və xüsusiyyətləri təqdim olunur:
 
 <table>
   <thead>
     <tr>
       <th>Layihə</th>
       <th>Status</th>
-      <th>Altçoxluq / Təyinat</th>
+      <th>Təyinat</th>
       <th>Təsvir</th>
       <th>Canlı Keçid</th>
     </tr>
@@ -54,13 +53,13 @@ Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən bütün rəs
     <tr>
       <td><strong>🌐 TDV Hub</strong></td>
       <td>
-        <a href="https://tdv-community-labs.github.io/tdv-hub/" target="_blank">
-          <img src="https://img.shields.io/badge/M%C9%99rk%C9%99z-Canl%C4%B1-3B82F6?style=flat-square" alt="Live Hub" />
+        <a href="https://tdv-hub.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/M%C9%99rk%C9%99z-Canl%C4%B1-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live Hub" />
         </a>
       </td>
       <td><code>Şlüz & İdarəetmə</code></td>
       <td>Bütün icma layihələrinin mərkəzi portalı: zəng cədvəli, KSQ/BSQ kalkulyatoru, düstur bankı və kabinet bələdçisi.</td>
-      <td><a href="https://tdv-community-labs.github.io/tdv-hub/" target="_blank"><strong>tdv-hub</strong></a></td>
+      <td><a href="https://tdv-hub.vercel.app/" target="_blank"><strong>tdv-hub.vercel.app</strong></a></td>
     </tr>
     <tr>
       <td><strong>🎓 TDV E-School</strong></td>
@@ -74,26 +73,26 @@ Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən bütün rəs
       <td><a href="https://tdv-e-school.vercel.app/" target="_blank"><strong>tdv-e-school.vercel.app</strong></a></td>
     </tr>
     <tr>
-      <td><strong>⚽ TDV Sports</strong></td>
+      <td><strong>🕹️ TDV Games</strong></td>
       <td>
-        <a href="https://school-minifootball-tournament-2.vercel.app/" target="_blank">
+        <a href="https://tdv-games.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Oyunlar-Aktiv-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Games Live" />
+        </a>
+      </td>
+      <td><code>Oyun & Əyləncə</code></td>
+      <td>Məktəb mini retro oyunları (Snake, Dama, XO, Space Invaders, Memory) və oyun mühərrikləri.</td>
+      <td><a href="https://tdv-games.vercel.app/" target="_blank"><strong>tdv-games.vercel.app</strong></a></td>
+    </tr>
+    <tr>
+      <td><strong>⚽ TDV Football</strong></td>
+      <td>
+        <a href="https://school-minifootball-tournament.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Turnir-Canl%C4%B1-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Tournament Live" />
         </a>
       </td>
       <td><code>İdman & Liqa</code></td>
-      <td>Məktəb daxili minifutbol çempionatının canlı oyun nəticələri, xal cədvəli, bombardirlər və MVP reytinqi.</td>
-      <td><a href="https://school-minifootball-tournament-2.vercel.app/" target="_blank"><strong>minifootball-tournament</strong></a></td>
-    </tr>
-    <tr>
-      <td><strong>🎲 TDV Games</strong></td>
-      <td>
-        <a href="https://tdv-community-labs.github.io/tdv-hub/games.html" target="_blank">
-          <img src="https://img.shields.io/badge/Oyunlar-Aktiv-8B5CF6?style=flat-square&logo=gamepad&logoColor=white" alt="Games Live" />
-        </a>
-      </td>
-      <td><code>Oyun & Əyləncə</code></td>
-      <td>Məktəb oyun və deduksiya portalı: TDV Mafia flaqman platforması, şagird intellektual oyunları və layihə laboratoriyası.</td>
-      <td><a href="https://tdv-community-labs.github.io/tdv-hub/games.html" target="_blank"><strong>tdv-hub/games</strong></a></td>
+      <td>Məktəb daxili minifutbol çempionatının canlı oyun nəticələri, xal cədvəli, 2D/3D taktiki meydança və statistikalar.</td>
+      <td><a href="https://school-minifootball-tournament.vercel.app/" target="_blank"><strong>minifootball-tournament</strong></a></td>
     </tr>
     <tr>
       <td><strong>🕵️‍♂️ TDV Mafia</strong></td>
@@ -103,8 +102,19 @@ Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən bütün rəs
         </a>
       </td>
       <td><code>Deduksiya & Məntiq</code></td>
-      <td>TDV Games-in flaqman sosial deduksiya mühərriki: Dante's Inferno (9 Dairə Əzabları), Operation Valkyrie, Stanford Prison daxil 14 oyun formatı və real-vaxt masalar.</td>
+      <td>Flaqman sosial deduksiya mühərriki: Dante's Inferno, Operation Valkyrie, Stanford Prison daxil 14 oyun formatı və real-vaxt masalar.</td>
       <td><a href="https://tdv-mafia.vercel.app/" target="_blank"><strong>tdv-mafia.vercel.app</strong></a></td>
+    </tr>
+    <tr>
+      <td><strong>♟️ TDV Boardgames</strong></td>
+      <td>
+        <a href="https://tdv-boardgames.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Stol%C3%BCst%C3%BC-Aktiv-F59E0B?style=flat-square&logo=vercel&logoColor=white" alt="Boardgames Live" />
+        </a>
+      </td>
+      <td><code>Strateji & Şahmat</code></td>
+      <td>Klassik stolüstü oyunlar, şahmat platforması, orijinal akustik taxta səs effektləri və taktiki analiz.</td>
+      <td><a href="https://tdv-boardgames.vercel.app/" target="_blank"><strong>tdv-boardgames.vercel.app</strong></a></td>
     </tr>
   </tbody>
 </table>
@@ -115,7 +125,7 @@ Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən bütün rəs
 
 > [!IMPORTANT]
 > **Qapalı Repozitoriyalar (Private Codebases):**
-> TDV Community Labs təşkilatına daxil olan əsas xidmətlərin (`tdv-e-school`, `school-minifootball-tournament`, `tdv-mafia`) ilkin mənbə kodları **Qapalı (Private)** rejimdə qorunur. `tdv-hub` və `.github` repozitoriyaları isə icma və profil vitrini olaraq açıq saxlanılır. Kod bazasına inzibati giriş yalnız təsdiqlənmiş komanda üzvləri üçün açıqdır.
+> TDV Community Labs təşkilatına daxil olan əsas xidmətlərin ilkin mənbə kodları **Qapalı (Private)** rejimdə qorunur. `tdv-hub` və `.github` repozitoriyaları isə icma və profil vitrini olaraq açıq saxlanılır. Kod bazasına inzibati giriş yalnız təsdiqlənmiş komanda üzvləri üçün açıqdır.
 
 ---
 
