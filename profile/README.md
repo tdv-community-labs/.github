@@ -3,7 +3,8 @@
 # 🌐 TDV Community Labs
 
 <p align="center">
-  <strong>Məktəb icması üçün rəqəmsal layihələr və innovativ tədris ekosistemi</strong>
+<strong>Next-Generation Community Developer Infrastructure, EdTech Platforms and AI-Native Automation Ecosystem</strong>
+  
 </p>
 
 <p align="center">
@@ -24,7 +25,8 @@
 
 ## 📖 Haqqımızda və Ekosistem Strukturu
 
-**TDV Community Labs** — məktəb icmasının tədris, idman, strateji məntiq və rəqəmsal innovasiya ehtiyaclarını vahid çətir altında birləşdirən 6 rəsmi layihədən ibarət mütəşəkkil ekosistemdir:
+**TDV Community Labs** – A high-throughput developer and community infrastructure delivering interactive EdTech engines, real-time analytics, and scalable AI workflows across integrated platforms:
+
 
 - **🌐 Şlüz & Kommunal Portalı (TDV Hub):** Mərkəzi naviqasiya şlüzü, bal hesablayıcı, interaktiv zəng və sinif cədvəli, fənn kabinetləri.
 - **🎓 Akademik & EdTech Portalı (TDV E-School):** Elektron dərsliklər, BSQ/KSQ sınaq arxivi, KaTeX formulları və 1v1 PvP intellektual bilik yarışları.
@@ -133,10 +135,9 @@ Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən 6 rəsmi lay
 
 Təşkilat layihələri, yeni təkliflər və ya yaranan texniki xətalarla bağlı bizimlə əlaqə saxlaya bilərsiniz:
 
-- 💡 **Təkliflər və İdeyalar:** Yeni rəqəmsal layihə ideyanız və ya mövcud portalların təkmilləşdirilməsi ilə bağlı fikirlərinizi bildirin.
-- 🐛 **Xəta Bildirişi:** Sistemlərdə rast gəldiyiniz hər hansı çatışmazlığı və ya xətanı dərhal komandaya çatdırın.
-- 📧 **Əlaqə:** İcma rəhbərliyi və tərtibatçı komanda ilə əlaqə üçün məktəb administrasiyasına və ya birbaşa layihə menecerinə müraciət edin.
+- 📧 **Əlaqə:** Rəsmi sorğular və tərəfdaşlıq üçün: `contact@tdvlabs.me`
+- 🌐 **Rəsmi Veb-sayt:** [tdvlabs.me](https://tdvlabs.me)
 
 <div align="center">
-  <sub>© 2026 TDV Community Labs. Bütün hüquqlar qorunur.</sub>
+  <sub>© 2026 TDV Community Labs. All rights reserved.</sub>
 </div>
