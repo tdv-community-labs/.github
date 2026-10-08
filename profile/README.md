@@ -51,17 +51,17 @@ Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən 6 rəsmi lay
       <th>Canlı Keçid</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><strong>🌐 TDV Hub</strong></td>
+        <td><strong>🌐 TDV Hub</strong></td>
       <td>
-        <a href="https://tdv-hub.vercel.app/" target="_blank">
+        <a href="https://tdvlabs.me" target="_blank">
           <img src="https://img.shields.io/badge/M%C9%99rk%C9%99z-Canl%C4%B1-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live Hub" />
         </a>
       </td>
       <td><code>Şlüz & İdarəetmə</code></td>
       <td>Bütün icma layihələrinin mərkəzi portalı: zəng cədvəli, KSQ/BSQ kalkulyatoru, düstur bankı və kabinet bələdçisi.</td>
-      <td><a href="https://tdv-hub.vercel.app/" target="_blank"><strong>tdv-hub.vercel.app</strong></a></td>
+      <td><a href="https://tdvlabs.me" target="_blank"><strong>tdvlabs.me</strong></a></td>
+    </tr>
+  
     </tr>
     <tr>
       <td><strong>🎓 TDV E-School</strong></td>
