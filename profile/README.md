@@ -2,141 +2,60 @@
 
 # 🌐 TDV Community Labs
 
-<p align="center">
-<strong>Next-Generation Community Developer Infrastructure, EdTech Platforms and AI-Native Automation Ecosystem</strong>
-  
-</p>
+**Next-Generation Community Developer Infrastructure, EdTech Platforms & AI-Native Systems**
 
-<p align="center">
-  <a href="#-r%C9%99q%C9%99msal-layih%C9%99l%C9%99r-v%C9%99-canl%C4%B1-ke%C3%A7idl%C9%99r">
-    <img src="https://img.shields.io/badge/Status-Aktiv-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Active" />
-  </a>
-  <a href="https://github.com/tdv-community-labs">
-    <img src="https://img.shields.io/badge/Platforma-TDV%20Labs-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Platform TDV Labs" />
-  </a>
-  <a href="#-m%C9%99xfilik-v%C9%99-t%C9%99hl%C3%BCk%C9%99sizlik-qaydas%C4%B1">
-    <img src="https://img.shields.io/badge/M%C9%99xfilik-Qapal%C4%B1%20(Private)-0F172A?style=for-the-badge&logo=shield&logoColor=white" alt="Private Repositories" />
-  </a>
-</p>
+[![Status: Active](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white)](https://tdvlabs.me)
+[![Platform: TDV Labs](https://img.shields.io/badge/Platform-TDV%20Labs-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://tdvlabs.me)
+[![Security: Enterprise Private](https://img.shields.io/badge/Security-Private%20Repositories-0F172A?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/tdv-community-labs)
 
 ---
 
 </div>
 
-## 📖 Haqqımızda və Ekosistem Strukturu
+## 📖 About & Ecosystem Overview
 
-**TDV Community Labs** – A high-throughput developer and community infrastructure delivering interactive EdTech engines, real-time analytics, and scalable AI workflows across integrated platforms:
+**TDV Community Labs** is an integrated software and engineering ecosystem delivering community platforms, scalable EdTech engines, real-time tactical analytics, and AI-assisted automation pipelines across six production environments:
 
-
-- **🌐 Şlüz & Kommunal Portalı (TDV Hub):** Mərkəzi naviqasiya şlüzü, bal hesablayıcı, interaktiv zəng və sinif cədvəli, fənn kabinetləri.
-- **🎓 Akademik & EdTech Portalı (TDV E-School):** Elektron dərsliklər, BSQ/KSQ sınaq arxivi, KaTeX formulları və 1v1 PvP intellektual bilik yarışları.
-- **🕹️ Oyunlar & Əyləncə Portalı (TDV Games):** Mini retro oyunlar, şagird oyun laboratoriyası və arkada mühərrikləri.
-- **⚽ İdman & Turnir Portalı (TDV Football):** Məktəb daxili minifutbol liqası, canlı xal cədvəli, 2D/3D taktiki analitika və bombardirlər.
-- **🕵️‍♂️ Sosial Deduksiya Portalı (TDV Mafia):** 14 müxtəlif formatlı strateji sosial deduksiya və psixoloji məntiq platforması.
-- **♟️ Stolüstü Oyunlar Portalı (TDV Boardgames):** Şahmat və klassik stolüstü oyun mühərrikləri, akustik səs effektləri və taktiki analiz.
-
----
-
-## 🚀 Rəqəmsal Layihələr və Canlı Keçidlər
-
-Aşağıda təşkilatımızın tərkibində fəaliyyət göstərən 6 rəsmi layihənin canlı keçidləri və xüsusiyyətləri təqdim olunur:
-
-<table>
-  <thead>
-    <tr>
-      <th>Layihə</th>
-      <th>Status</th>
-      <th>Təyinat</th>
-      <th>Təsvir</th>
-      <th>Canlı Keçid</th>
-    </tr>
-  </thead>
-        <td><strong>🌐 TDV Hub</strong></td>
-      <td>
-        <a href="https://tdvlabs.me" target="_blank">
-          <img src="https://img.shields.io/badge/M%C9%99rk%C9%99z-Canl%C4%B1-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live Hub" />
-        </a>
-      </td>
-      <td><code>Şlüz & İdarəetmə</code></td>
-      <td>Bütün icma layihələrinin mərkəzi portalı: zəng cədvəli, KSQ/BSQ kalkulyatoru, düstur bankı və kabinet bələdçisi.</td>
-      <td><a href="https://tdvlabs.me" target="_blank"><strong>tdvlabs.me</strong></a></td>
-    </tr>
-  
-    </tr>
-    <tr>
-      <td><strong>🎓 TDV E-School</strong></td>
-      <td>
-        <a href="https://tdv-e-school.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Canl%C4%B1-Aktiv-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live" />
-        </a>
-      </td>
-      <td><code>Tədris & Sınaq</code></td>
-      <td>Elektron dərsliklər, KSQ/BSQ sınaq arxivi, KaTeX formulları və 1v1 PvP intellektual bilik arenası.</td>
-      <td><a href="https://tdv-e-school.vercel.app/" target="_blank"><strong>tdv-e-school.vercel.app</strong></a></td>
-    </tr>
-    <tr>
-      <td><strong>🕹️ TDV Games</strong></td>
-      <td>
-        <a href="https://tdv-games.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Oyunlar-Aktiv-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Games Live" />
-        </a>
-      </td>
-      <td><code>Oyun & Əyləncə</code></td>
-      <td>Məktəb mini retro oyunları (Snake, Dama, XO, Space Invaders, Memory) və oyun mühərrikləri.</td>
-      <td><a href="https://tdv-games.vercel.app/" target="_blank"><strong>tdv-games.vercel.app</strong></a></td>
-    </tr>
-    <tr>
-      <td><strong>⚽ TDV Football</strong></td>
-      <td>
-        <a href="https://school-minifootball-tournament.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Turnir-Canl%C4%B1-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Tournament Live" />
-        </a>
-      </td>
-      <td><code>İdman & Liqa</code></td>
-      <td>Məktəb daxili minifutbol çempionatının canlı oyun nəticələri, xal cədvəli, 2D/3D taktiki meydança və statistikalar.</td>
-      <td><a href="https://school-minifootball-tournament.vercel.app/" target="_blank"><strong>minifootball-tournament</strong></a></td>
-    </tr>
-    <tr>
-      <td><strong>🕵️‍♂️ TDV Mafia</strong></td>
-      <td>
-        <a href="https://tdv-mafia.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Canl%C4%B1-Aktiv-DC2626?style=flat-square&logo=vercel&logoColor=white" alt="Live Mafia" />
-        </a>
-      </td>
-      <td><code>Deduksiya & Məntiq</code></td>
-      <td>Flaqman sosial deduksiya mühərriki: Dante's Inferno, Operation Valkyrie, Stanford Prison daxil 14 oyun formatı və real-vaxt masalar.</td>
-      <td><a href="https://tdv-mafia.vercel.app/" target="_blank"><strong>tdv-mafia.vercel.app</strong></a></td>
-    </tr>
-    <tr>
-      <td><strong>♟️ TDV Boardgames</strong></td>
-      <td>
-        <a href="https://tdv-boardgames.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Stol%C3%BCst%C3%BC-Aktiv-F59E0B?style=flat-square&logo=vercel&logoColor=white" alt="Boardgames Live" />
-        </a>
-      </td>
-      <td><code>Strateji & Şahmat</code></td>
-      <td>Klassik stolüstü oyunlar, şahmat platforması, orijinal akustik taxta səs effektləri və taktiki analiz.</td>
-      <td><a href="https://tdv-boardgames.vercel.app/" target="_blank"><strong>tdv-boardgames.vercel.app</strong></a></td>
-    </tr>
-  </tbody>
-</table>
+* **🌐 Central Gateway & Operations (TDV Hub):** Central service router, schedule automation, grade computation engine, LaTeX scientific calculators, and directory navigation.
+* **🎓 Academic & EdTech Engine (TDV E-School):** Interactive digital curriculum, exam archive databases, KaTeX formula support, and 1v1 PvP academic competition arenas.
+* **🕹️ Interactive Simulations & Engines (TDV Games):** Browser-based mini retro gaming engines (Snake, Chess, XO, Space Invaders) and custom WebGL runtime frameworks.
+* **⚽ Sports Analytics & Tournament Core (TDV Football):** Real-time mini-football tournament platform featuring live scoreboards, league tables, and 2D/3D tactical pitch analyzers.
+* **🕵️ Social Deduction Platform (TDV Mafia):** Real-time logic and behavioral engine featuring 14 distinct rule variations including Dante's Inferno, Operation Valkyrie, and Stanford Prison simulations.
+* **♟️ Strategy & Tactical Platform (TDV Boardgames):** Chess and classic tabletop logic platforms with native audio acoustic feedback and tactical analysis engines.
 
 ---
 
-## 🔒 Məxfilik və Təhlükəsizlik Qaydası
+## 🚀 Production Services & Live Deployments
 
-> [!IMPORTANT]
-> **Qapalı Repozitoriyalar (Private Codebases):**
-> TDV Community Labs təşkilatına daxil olan əsas xidmətlərin ilkin mənbə kodları **Qapalı (Private)** rejimdə qorunur. `tdv-hub` və `.github` repozitoriyaları isə icma və profil vitrini olaraq açıq saxlanılır. Kod bazasına inzibati giriş yalnız təsdiqlənmiş komanda üzvləri üçün açıqdır.
+Below is the complete deployment overview of the active production gateways across the TDV Community Labs network:
+
+| Project | Status | Focus Area | Description | Live Deployment |
+| :--- | :---: | :--- | :--- | :--- |
+| **🌐 TDV Hub** | [![Production Live](https://img.shields.io/badge/Live-Gateway-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://tdvlabs.me) | `Core Gateway` | Central operational portal, scheduler, calculators, and navigation. | [tdvlabs.me](https://tdvlabs.me) |
+| **🎓 TDV E-School** | [![Production Live](https://img.shields.io/badge/Live-Active-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://tdv-e-school.vercel.app/) | `EdTech Platform` | Digital curriculum, assessment archive, KaTeX support, and quiz arena. | [tdv-e-school.vercel.app](https://tdv-e-school.vercel.app/) |
+| **🕹️ TDV Games** | [![Production Live](https://img.shields.io/badge/Live-Active-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://tdv-games.vercel.app/) | `Interactive Gaming` | Lightweight browser-based retro engines and community game labs. | [tdv-games.vercel.app](https://tdv-games.vercel.app/) |
+| **⚽ TDV Football** | [![Production Live](https://img.shields.io/badge/Live-Active-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://school-minifootball-tournament.vercel.app/) | `Sports Analytics` | Live league standings, match scoring, and 2D/3D tactical field analysis. | [minifootball-tournament](https://school-minifootball-tournament.vercel.app/) |
+| **🕵️ TDV Mafia** | [![Production Live](https://img.shields.io/badge/Live-Active-DC2626?style=flat-square&logo=vercel&logoColor=white)](https://tdv-mafia.vercel.app/) | `Social Deduction` | Flagship deductive logic engine with 14 tactical multiplayer modes. | [tdv-mafia.vercel.app](https://tdv-mafia.vercel.app/) |
+| **♟️ TDV Boardgames** | [![Production Live](https://img.shields.io/badge/Live-Active-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://tdv-boardgames.vercel.app/) | `Strategy & Chess` | Classic tabletop platforms, acoustic sound engines, and match analysis. | [tdv-boardgames.vercel.app](https://tdv-boardgames.vercel.app/) |
 
 ---
 
-## 💬 Əks-əlaqə və İcma Əlaqəsi
+## 🔒 Security & Codebase Policy
 
-Təşkilat layihələri, yeni təkliflər və ya yaranan texniki xətalarla bağlı bizimlə əlaqə saxlaya bilərsiniz:
+> **[NOTICE] Enterprise Private Codebases:**
+> The proprietary core services and architectural source code of **TDV Community Labs** are securely maintained within private organization repositories. Public repositories (`tdv-hub`, `.github`) serve as open gateways and organization vitrines. Administrative code access is restricted to verified engineering members.
 
-- 📧 **Əlaqə:** Rəsmi sorğular və tərəfdaşlıq üçün: `contact@tdvlabs.me`
-- 🌐 **Rəsmi Veb-sayt:** [tdvlabs.me](https://tdvlabs.me)
+---
+
+## 📬 Official Contacts & Inquiries
+
+For institutional partnerships, technology integrations, or administrative inquiries:
+
+- 📧 **Official Contact:** [`contact@tdvlabs.me`](mailto:contact@tdvlabs.me)
+- 🌐 **Primary Web Platform:** [tdvlabs.me](https://tdvlabs.me)
+- 🏢 **Organization:** [github.com/tdv-community-labs](https://github.com/tdv-community-labs)
+
+---
 
 <div align="center">
   <sub>© 2026 TDV Community Labs. All rights reserved.</sub>
