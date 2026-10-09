@@ -4,8 +4,8 @@
 
 **Next-Generation Community Developer Infrastructure, EdTech Platforms & AI-Native Systems**
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white)](https://tdvlabs.me)
-[![Platform: TDV Labs](https://img.shields.io/badge/Platform-TDV%20Labs-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://tdvlabs.me)
+[![Status: Active](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white)](https://tdv-community-labs.github.io/tdv-hub/)
+[![Platform: TDV Labs](https://img.shields.io/badge/Platform-TDV%20Labs-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://tdv-community-labs.github.io/tdv-hub/)
 [![Security: Enterprise Private](https://img.shields.io/badge/Security-Private%20Repositories-0F172A?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/tdv-community-labs)
 
 ---
@@ -31,7 +31,7 @@ Below is the complete deployment overview of the active production gateways acro
 
 | Project | Status | Focus Area | Description | Live Deployment |
 | :--- | :---: | :--- | :--- | :--- |
-| **🌐 TDV Hub** | [![Production Live](https://img.shields.io/badge/Live-Gateway-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://tdvlabs.me) | `Core Gateway` | Central operational portal, scheduler, calculators, and navigation. | [tdvlabs.me](https://tdvlabs.me) |
+| **🌐 TDV Hub** | [![Production Live](https://img.shields.io/badge/Live-Gateway-3B82F6?style=flat-square&logo=github&logoColor=white)](https://tdv-community-labs.github.io/tdv-hub/) | `Core Gateway` | Central operational portal, scheduler, calculators, and navigation. | [tdv-hub](https://tdv-community-labs.github.io/tdv-hub/) |
 | **🎓 TDV E-School** | [![Production Live](https://img.shields.io/badge/Live-Active-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://tdv-e-school.vercel.app/) | `EdTech Platform` | Digital curriculum, assessment archive, KaTeX support, and quiz arena. | [tdv-e-school.vercel.app](https://tdv-e-school.vercel.app/) |
 | **🕹️ TDV Games** | [![Production Live](https://img.shields.io/badge/Live-Active-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://tdv-games.vercel.app/) | `Interactive Gaming` | Lightweight browser-based retro engines and community game labs. | [tdv-games.vercel.app](https://tdv-games.vercel.app/) |
 | **⚽ TDV Football** | [![Production Live](https://img.shields.io/badge/Live-Active-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://school-minifootball-tournament.vercel.app/) | `Sports Analytics` | Live league standings, match scoring, and 2D/3D tactical field analysis. | [minifootball-tournament](https://school-minifootball-tournament.vercel.app/) |
@@ -52,7 +52,7 @@ Below is the complete deployment overview of the active production gateways acro
 For institutional partnerships, technology integrations, or administrative inquiries:
 
 - 📧 **Official Contact:** [`contact@tdvlabs.me`](mailto:contact@tdvlabs.me)
-- 🌐 **Primary Web Platform:** [tdvlabs.me](https://tdvlabs.me)
+- 🌐 **Primary Web Platform:** [tdv-community-labs.github.io/tdv-hub](https://tdv-community-labs.github.io/tdv-hub/)
 - 🏢 **Organization:** [github.com/tdv-community-labs](https://github.com/tdv-community-labs)
 
 ---
